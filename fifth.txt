@@ -1,1 +1,11 @@
 # data-analysis
+1、git config                              #配置用户名和邮箱
+2、git init                                   #初始化版本库
+3、git status                              #了解版本库的最新状态
+4、git add                                  #增加管理文件
+5、git commit -m "更新注释"     #提交文件（然后才被管理） 
+6、git add --all                           #一次将多个文件进行管理
+7、git log                                   #日志
+8、git --summary                      #详细查看日志
+9、git push -u origin master     #将本地文件同步到云端github
+10、git pull origin master         #将云端文件同步到本地
