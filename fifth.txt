@@ -10,3 +10,4 @@
 9、git push -u origin master     #将本地文件同步到云端github
 10、git pull origin master         #将云端文件同步到本地
 11、
+12、
